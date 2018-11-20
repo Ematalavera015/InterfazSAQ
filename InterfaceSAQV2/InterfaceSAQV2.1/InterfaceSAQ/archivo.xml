@@ -1,0 +1,22 @@
+<launch4jConfig>
+  <dontWrapJar>false</dontWrapJar>
+  <headerType>gui</headerType>
+  <jar>C:\Users\Ema\Documents\NetBeansProjects\InterfaceSAQ\dist\InterfaceSAQ.jar</jar>
+  <outfile>C:\Users\Ema\Desktop\escritorio 2018\InSo I\SAQ\SAQ.exe</outfile>
+  <errTitle></errTitle>
+  <cmdLine></cmdLine>
+  <chdir></chdir>
+  <priority>normal</priority>
+  <downloadUrl>http://java.com/download</downloadUrl>
+  <supportUrl></supportUrl>
+  <customProcName>false</customProcName>
+  <stayAlive>false</stayAlive>
+  <manifest></manifest>
+  <icon>C:\Users\Ema\Desktop\escritorio 2018\InSo I\logo_SAQ\logo_SAQ.ico</icon>
+  <jre>
+    <path>C:\Program Files\Java\jdk1.8.0_144\jre</path>
+    <minVersion></minVersion>
+    <maxVersion></maxVersion>
+    <jdkPreference>preferJre</jdkPreference>
+  </jre>
+</launch4jConfig>
